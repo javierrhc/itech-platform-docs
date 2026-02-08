@@ -131,5 +131,5 @@ Próximo documento a definir:
 * `docs/blueprint/architecture.md` — Arquitectura lógica y conceptual.
 
 ---
-
+ 
 **Fin del documento**

@@ -149,5 +149,5 @@ Próximo documento sugerido:
 * `docs/blueprint/integrations.md` — Integraciones externas y límites.
 
 ---
-
+ 
 **Fin del documento**
