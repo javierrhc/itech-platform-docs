@@ -1,6 +1,6 @@
 # Arquitectura Lógica de la Plataforma ITech
 
-**Estado:** Draft
+**Estado:** Activo
 **Versión:** v0.1.0
 **Owner:** Plataforma ITech
 **Dominio:** blueprint
